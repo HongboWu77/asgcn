@@ -1,0 +1,70 @@
+repeat: 1
+max_test_acc: 0.8160714285714286, max_test_f1: 0.7377075995286787
+repeat: 2
+max_test_acc: 0.8080357142857143, max_test_f1: 0.7159123049582746
+repeat: 3
+max_test_acc: 0.8098214285714286, max_test_f1: 0.7169812817614375
+
+repeat: 1
+max_test_acc: 0.8151785714285714, max_test_f1: 0.7290490624185687
+repeat: 2
+max_test_acc: 0.8116071428571429, max_test_f1: 0.7242986770593166
+repeat: 3
+max_test_acc: 0.81875, max_test_f1: 0.7286746736633227
+
+repeat: 1
+max_test_acc: 0.8098214285714286, max_test_f1: 0.7244800423545841
+repeat: 2
+max_test_acc: 0.8089285714285714, max_test_f1: 0.7207960104186518
+repeat: 3 best
+max_test_acc: 0.8205357142857143, max_test_f1: 0.7282495186297591
+
+repeat: 1
+max_test_acc: 0.81875, max_test_f1: 0.7390148392725867
+repeat: 2
+max_test_acc: 0.8089285714285714, max_test_f1: 0.7287780379702014
+repeat: 3
+max_test_acc: 0.8125, max_test_f1: 0.7304960696867031
+
+repeat: 1
+max_test_acc: 0.8151785714285714, max_test_f1: 0.7343282115095441
+repeat: 2
+max_test_acc: 0.8080357142857143, max_test_f1: 0.7254510818146618
+repeat: 3
+max_test_acc: 0.81875, max_test_f1: 0.7305675709328545
+
+repeat: 1
+max_test_acc: 0.8125, max_test_f1: 0.7290016906050661
+repeat: 2
+max_test_acc: 0.8196428571428571, max_test_f1: 0.7376907462123999
+repeat: 3
+max_test_acc: 0.8080357142857143, max_test_f1: 0.7267970907532805
+
+repeat: 1
+max_test_acc: 0.8071428571428572, max_test_f1: 0.7097109307204432
+repeat: 2
+max_test_acc: 0.8080357142857143, max_test_f1: 0.7151007821148011
+repeat: 3
+max_test_acc: 0.8098214285714286, max_test_f1: 0.72920403731404
+
+repeat: 1
+max_test_acc: 0.8116071428571429, max_test_f1: 0.7226275812246371
+repeat: 2
+max_test_acc: 0.8125, max_test_f1: 0.720605109896517
+repeat: 3
+max_test_acc: 0.8214285714285714, max_test_f1: 0.7337838207113722
+
+repeat: 1
+max_test_acc: 0.8071428571428572, max_test_f1: 0.7164935895994279
+repeat: 2
+max_test_acc: 0.8169642857142857, max_test_f1: 0.7313751571150496
+repeat: 3
+max_test_acc: 0.8125, max_test_f1: 0.7284376023062094
+
+repeat: 1
+max_test_acc: 0.8098214285714286, max_test_f1: 0.7239211599940522
+repeat: 2
+max_test_acc: 0.80625, max_test_f1: 0.717651357836217
+repeat: 3
+max_test_acc: 0.8169642857142857, max_test_f1: 0.738596728290419
+
